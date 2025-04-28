@@ -8,7 +8,6 @@ I'm an aspiring **AI Engineer** passionate about building intelligent systems, s
 - 🤔 I’m looking for help with mastering model deployment and scalable AI systems
 - 💬 Ask me about Python, Machine Learning, or AI basics!
 - 📫 How to reach me: nikesh.patel05@gmail.com or [LinkedIn Profile](https://www.linkedin.com/in/nikesh-patel-200452362/)
-- ⚡ Fun fact: I love connecting AI technology with real-world business solutions!
 
 ---
 
