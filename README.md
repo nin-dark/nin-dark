@@ -12,9 +12,9 @@ I'm an aspiring **AI Engineer** passionate about building intelligent systems, s
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java (basics), SQL
+- **Languages:** Python, SQL
 - **Frameworks/Libraries:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
-- **Tools:** Git, Jupyter Notebooks, VSCode, Google Colab
+- **Tools:** Git, Jupyter Notebooks, VSCode, Docker
 - **Other Interests:** Data Science, AI Startups, Computer Vision, NLP
 
 ---
