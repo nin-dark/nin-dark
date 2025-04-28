@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nin-Dark
+# Hi there 👋, I'm Nikesh Patel
 
 I'm an aspiring **AI Engineer** passionate about building intelligent systems, solving real-world problems with technology, and continuously learning new things!
 
